@@ -1,7 +1,7 @@
 # Example
 
 ```shell
-$ npm install sensitive-words
+$ npm install chez-sensitive-words
 
 ```
 
